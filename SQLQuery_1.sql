@@ -1,4 +1,4 @@
 use editorial
 SELECT * from autores
 go
-exec sp_help 'autores'
+--exec sp_help 'autores'
