@@ -2,7 +2,7 @@ use editorial
 SELECT * from autores
 go
 --exec sp_help 'autores'
---asdfasfasdfasdfsadf
+--asdfasfasdfasdfsadfasdfasdfasdfasdfasdf
 
 SELECT empleados.*,cargos.cargo_descripcion
 FROM empleados,cargos
